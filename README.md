@@ -23,3 +23,4 @@ Identified high-value and low-value customer groups.
 Improved understanding of customer purchasing behavior.
 Enabled personalized marketing strategies and customer targeting.
 note:-all code is in jupyter lab so output is not show if you want to seen output then use commited commit file 
+note:- to see the best visualization and out put of this project visit my linkdin profile:-https://www.linkedin.com/in/ritesh-gadekar-973525296
